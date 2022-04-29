@@ -34,6 +34,3 @@ gem 'wdm', '~> 0.1.1', :install_if => Gem.win_platform?
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.7"
-gem "listen"
-gem 'guard'
-gem 'guard-livereload'
