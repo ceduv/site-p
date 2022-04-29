@@ -1,0 +1,21 @@
+.logo-ruby{
+  width: 40px;
+  margin-left: 20%;
+}
+
+.nav-title-ced{
+  font-weight: bolder;
+  font-size: x-large;
+  margin-left: 3vw;
+}
+
+@media(max-width: 770px) {
+  .navbar-light .navbar-nav .nav-link {
+    background: rgba(255, 255, 255, 0.9) 100%;
+    backdrop-filter: blur(5px);
+  }
+}
+
+.navbar{
+  height: 7vh;
+}

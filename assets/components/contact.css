@@ -1,0 +1,27 @@
+.mail{
+  margin-left: 10px;
+  color: black;
+}
+
+.contact-title{
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.contact-element{
+  margin-top: 10vh;
+}
+
+.linkedin-element{
+  color: black;
+  font-size: 4em !important;
+  margin-bottom: 10vh;
+}
+
+.contact-cv{
+  text-decoration: none;
+}
+
+.five{
+  font-family: 'Tapestry',cursive;
+}

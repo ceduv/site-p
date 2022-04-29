@@ -1,0 +1,19 @@
+section{
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  scroll-snap-align: start;
+  position: relative;
+  overflow: hidden;
+  margin-top: 20vh;
+}
+
+.section-title{
+  margin-top: 7vh;
+  margin-bottom: 7vh;
+  font-weight: bolder;
+  font-size: 40px;
+  font-family: 'Tapestry',
+  cursive;
+}
