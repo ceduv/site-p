@@ -37,4 +37,3 @@ gem "webrick", "~> 1.7"
 gem "listen"
 gem 'guard'
 gem 'guard-livereload'
-gem "github-pages"
